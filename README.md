@@ -29,7 +29,7 @@ The dataset includes the following key attributes:
 - Location and IP-related information  
 - Delivery preferences  
 
-![Dataset Preview](dataset_preview.png)
+![Dataset Preview](https://github.com/Adutwum-art/credit-card-fraud-analysis/blob/f4b0beb3fec0b2a9940b498ec77fb5d15b1f60c9/dataset_preview..png)
 
 
 ## 🧹 Data Preparation
