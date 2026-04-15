@@ -77,7 +77,7 @@ The analysis includes visual exploration of transaction behavior to identify ano
 
 ## Transaction Value Distribution
 
-![Transaction Value Chart](images/transaction_value_chart.png)
+![Transaction Value Chart](transaction_value_chart.png)
 
 This visualization highlights:
 - Normal spending ranges
