@@ -29,7 +29,8 @@ The dataset includes the following key attributes:
 - Location and IP-related information  
 - Delivery preferences  
 
----
+![Dataset Preview](dataset_preview.png)
+
 
 ## 🧹 Data Preparation
 
