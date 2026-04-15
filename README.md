@@ -77,7 +77,9 @@ The analysis includes visual exploration of transaction behavior to identify ano
 
 ## Transaction Value Distribution
 
-![Transaction Value Chart](transaction_value_chart.png)
+![Transaction Value Chart]([transaction_value_chart.png](https://github.com/Adutwum-art/credit-card-fraud-analysis/blob/1f2ad50e80023fb5b7c2e5d7c6db90ba82ab0eff/transaction_value_chart..png))
+
+![Transaction Value Chart]([transaction_value_chart.png]
 
 This visualization highlights:
 - Normal spending ranges
